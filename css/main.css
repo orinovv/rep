@@ -1,0 +1,96 @@
+@import url(reset.css);
+body {
+    background-color: #e8e8e8;
+}
+.ellipse {
+    background: url(../img/Ellipse.svg) 1190px 1064px no-repeat;
+    margin-top: 106px;
+    margin-left: 143px;
+    margin-right: 109px;
+}
+.wrap {
+    margin:129px auto;
+    max-width: 842px; 
+}
+.littleheader {
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #273d46;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    margin-top: 39px;
+    text-align: center;
+    margin-bottom: 28px;
+}
+.sarlavha {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 36px;
+    color: #273d46;
+    text-align: center;
+    margin-bottom: 80px;
+}
+.img {
+    width: 821px;
+    height: 541px;
+    margin: 0px auto;
+    display: inline-block;
+}
+.text {
+    margin-top: 97px;
+    font-size: 24px;
+    font-family: "Times New Roman", Times, serif;
+    color: #273d46;
+    margin-left: 45px;
+    margin-right: 48px;
+    margin-bottom: 65px;
+}
+.text2 {
+    font-size: 24px;
+    font-family: "Times New Roman", Times, serif;
+    color: #273d46;
+    margin-left: 45px;
+    margin-right: 48px;
+}
+.list li{
+    margin-left: 40px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    background: url(../img/checkkokicon.png) left center/ 25px 19px no-repeat;
+    margin-bottom: 17px;
+    padding-left: 35px;
+}
+.list li:first-child {
+    margin-bottom: 13px;
+    margin-top: 62px;
+    color: #273d46;
+}
+.list li:nth-child(2) {
+    color: #80b7b3;
+    font-style: italic;
+}
+.list li:nth-child(3) {
+    color: #273d46;
+    font-weight: bold;
+}
+.list li:last-child {
+    margin-bottom: 0px;
+    color: #bbbebf;
+    text-decoration: line-through;
+}
+a {
+    margin-top: 59px;
+    box-shadow: 6px 0px 40px rgba(128, 183, 179, 54%);
+    background-color: #80b7b3;
+    color: white;   
+    text-transform: uppercase;
+    padding: 17px 29px;
+    display: inline-block;
+    margin-left: 40px;
+    letter-spacing: 2px;
+    border-radius: 35px;
+    margin-bottom: 34px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+a img {
+    margin-left: 9px;
+}
